@@ -12,7 +12,6 @@
         <file>Image/music.png</file>
         <file>Image/next.png</file>
         <file>Image/pause.png</file>
-        <file>Image/Phố không mùa Bùi Anh Tuấn.png</file>
         <file>Image/play.png</file>
         <file>Image/playing.png</file>
         <file>Image/prev.png</file>
@@ -31,5 +30,6 @@
         <file>Image/point.png</file>
         <file>ButtonControl.qml</file>
         <file>SwitchButton.qml</file>
+        <file>Image/Pho-khong-mua Bui-Anh-Tuan.png</file>
     </qresource>
 </RCC>
